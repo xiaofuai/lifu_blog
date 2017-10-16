@@ -21,7 +21,7 @@ baseurl: "/lifu_blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: classfu
 github_username:  xiaofuai
-
+# markdown_ext: "markdown, mkdown, mkdn, mkd, md"
 # Build settings
 markdown: kramdown
 theme: minima
